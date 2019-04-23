@@ -1,2 +1,2 @@
 # HTML-CSS-Template-Demo
-A website demo using Bootstrap Css template
+A Website demo using Bootstrap Css template
